@@ -7,14 +7,10 @@
 </div>
 <em>
   <h5 align="center">(Programming Language - Python 3)</h5>
+  120 Leads in 2.5 Minutes
 </em>
-<p align="center">
-  <img src="https://views.whatilearened.today/views/github/omkarcloud/google-maps-scraper.svg" width="80px" height="28px" alt="View" />
-</p>
 
 ---
-
-🌟 Get 120 Leads in 2.5 Minutes! 🤖
 
 
 ## 🌟 Overview
